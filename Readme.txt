@@ -1,1 +1,2 @@
-SEP532 인공지능 이론 및 실제 강의, 텀 프로젝트 4조 협업 리포지토리입니다.
+Predator-Prey Environment Multi-agent 문제에서의, 최적 Agent와, Joint Reward의 최적 Mixing Factor 탐색을 위한 실험 결과물입니다.
+(Team, LoneAI Gym, KAIST SEP532)
